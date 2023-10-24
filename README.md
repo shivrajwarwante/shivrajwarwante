@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shivrajwarwante
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in react js and react native
+- 🌱 I’m currently learning hyderabad
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me shivrajwarwante333@gmail.com
+- 7219475916
 
 <!---
 shivrajwarwante/shivrajwarwante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
