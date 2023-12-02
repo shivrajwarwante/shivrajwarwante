@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivrajwarwante
 - 👀 I’m interested in react js and react native
-- 🌱 I’m currently learning hyderabad
+- 🌱 I’m currently at hyderabad
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me shivrajwarwante333@gmail.com
 - 7219475916
